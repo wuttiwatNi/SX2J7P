@@ -1,3 +1,3 @@
-# Section2question3
+# Section 2 Question 3
 
-Run `node app.js NetAssetValue` for a test.
+Run `npm i` and `node app.js NetAssetValue` for test.
