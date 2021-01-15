@@ -1,0 +1,22 @@
+{
+  "name": "sx2j7p",
+  "version": "1.0.0",
+  "description": "Run `npm i` and `node app.js NetAssetValue` for test.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuttiwatNi/SX2J7P.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuttiwatNi/SX2J7P/issues"
+  },
+  "homepage": "https://github.com/wuttiwatNi/SX2J7P#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
